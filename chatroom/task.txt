@@ -1,5 +1,5 @@
 
-
+GENERAL TASKS
 // 1. Setup express server
 // 2. Get endpoint working
 // 3. Test endpoint in browser
@@ -10,3 +10,10 @@
 // 8. setup input field
 // 9. deliver content of input field to server via a POST request
 // 10. handle that input on the server (save to a log file, etc)
+
+PROJECT
+Create a chatroom application
+Users can send messages through a React frontend app
+Each message has content and author properties
+All messages are displayed in a list through React
+Messages sent through app are saved in backend server

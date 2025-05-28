@@ -7,7 +7,7 @@ function App() {
   const [ user, setUser ] = useState('User')
 
   // hook that gets and sets messages from server
-    useEffect(() => {
+  useEffect(() => {
     axios
       .get('http://localhost:4000/messages')
       .then((response) => {
