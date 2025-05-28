@@ -1,0 +1,19 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "content": "Hey there! Type your message below and click Send when you're ready!",
+            "author": "Ben"
+        },
+        {
+            "id": 2,
+            "content": "Go ahead and enter a name too so everyone knows who it's from!",
+            "author": "Ben"
+        },
+        {
+            "id": 3,
+            "content": "Hello World...",
+            "author": "Sophia"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+1. Setup express server
+2. Get endpoint working
+3. Test endpoint in browser
+4. Setup react app
+5. useEffect fetch data from server
+6. render data 
+7. test that everything works (do not forget cors lol)
+8. setup input field
+9. deliver content of input field to server via a POST request
+10. handle that input on the server (save to a log file, etc)
+
+
+Your task:
+    Create json server with database of Pokemon
+    Create React application that displays all registered Pokemon and their stats
+    Create a form that allows the user to register a new Pokemon
+        Do not worry about saving the new Pokemon to the server yet

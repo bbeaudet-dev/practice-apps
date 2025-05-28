@@ -1,0 +1,12 @@
+
+
+// 1. Setup express server
+// 2. Get endpoint working
+// 3. Test endpoint in browser
+// 4. Setup react app
+// 5. useEffect fetch data from server
+// 6. render data 
+// 7. test that everything works (do not forget cors lol)
+// 8. setup input field
+// 9. deliver content of input field to server via a POST request
+// 10. handle that input on the server (save to a log file, etc)
